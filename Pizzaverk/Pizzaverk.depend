@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1511985832 source:c:\users\haraldurbjörn\documents\pizzaverk\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1511973813 c:\users\haraldurbjörn\documents\pizzaverk\include\mainui.h
+
+1511980366 c:\users\haraldurbjörn\documents\pizzaverk\include\pizza.h
+	"Topping.h"
+
+1511976384 c:\users\haraldurbjörn\documents\pizzaverk\include\topping.h
+	<iostream>
+
+1511985832 source:c:\users\haraldurbjörn\documents\pizzaverk\src\mainui.cpp
+	<iostream>
+	"MainUI.h"
+	"PizzaUI.h"
+
+1511975914 c:\users\haraldurbjörn\documents\pizzaverk\include\pizzaui.h
+
+1511986520 source:c:\users\haraldurbjörn\documents\pizzaverk\src\pizza.cpp
+	<iostream>
+	"Pizza.h"
+	"Topping.h"
+
+1511985832 source:c:\users\haraldurbjörn\documents\pizzaverk\src\topping.cpp
+	<iostream>
+	"Topping.h"
+	<string.h>
+
+1511986520 source:c:\users\haraldurbjörn\documents\pizzaverk\src\pizzaui.cpp
+	"PizzaUI.h"
+	<iostream>
+	"Pizza.h"
+	"PizzaRepository.h"
+
+1511984836 source:c:\users\haraldurbjörn\documents\pizzaverk\src\pizzarepository.cpp
+	"PizzaRepository.h"
+	<fstream>
+	"Pizza.h"
+
+1511984836 c:\users\haraldurbjörn\documents\pizzaverk\include\pizzarepository.h
+	"Pizza.h"
+

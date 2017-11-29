@@ -1,15 +1,13 @@
 #include <iostream>
+#include "MainUI.h"
 
 using namespace std;
 
 int main()
 {
-    cout << "Git gud scrub" << endl;
-    
-    int a;
-    cin >> a;
-    
-    cout << a << endl;
-    
+    MainUI mainui;
+
+    mainui.startUI();
+
     return 0;
 }
