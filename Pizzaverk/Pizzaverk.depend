@@ -42,3 +42,46 @@
 1511984836 c:\users\haraldurbjörn\documents\pizzaverk\include\pizzarepository.h
 	"Pizza.h"
 
+1511985834 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1511973814 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\include\mainui.h
+
+1511985834 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\src\mainui.cpp
+	<iostream>
+	"MainUI.h"
+	"PizzaUI.h"
+
+1511975916 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\include\pizzaui.h
+
+1511986522 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\src\pizza.cpp
+	<iostream>
+	"Pizza.h"
+	"Topping.h"
+
+1511980368 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\include\pizza.h
+	"Topping.h"
+
+1511976386 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\include\topping.h
+	<iostream>
+
+1511984838 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\src\pizzarepository.cpp
+	"PizzaRepository.h"
+	<fstream>
+	"Pizza.h"
+
+1511984838 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\include\pizzarepository.h
+	"Pizza.h"
+
+1511986522 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\src\pizzaui.cpp
+	"PizzaUI.h"
+	<iostream>
+	"Pizza.h"
+	"PizzaRepository.h"
+
+1511985834 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk\src\topping.cpp
+	<iostream>
+	"Topping.h"
+	<string.h>
+

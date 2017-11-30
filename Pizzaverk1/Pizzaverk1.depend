@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1512044050 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1512044050 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\mainui.h
+
+1512045191 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\adminui.cpp
+	"AdminUI.h"
+	<iostream>
+
+1512044703 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\adminui.h
+
+1512045268 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\mainui.cpp
+	"MainUI.h"
+	"AdminUI.h"
+	"SalespersonUI.h"
+	<iostream>
+
+1512045268 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\salespersonui.h
+
+1512045268 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\salespersonui.cpp
+	"SalespersonUI.h"
+	<iostream>
+
