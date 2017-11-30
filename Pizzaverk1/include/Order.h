@@ -17,7 +17,8 @@ class Order
     protected:
 
     private:
-        char S;
+        char pizzaSize;
+        int numberOfToppings;
         Pizza pizza;
 };
 

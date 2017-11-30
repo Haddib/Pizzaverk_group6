@@ -13,9 +13,14 @@ Order::Order()
     cout << "s: " << findLineInTxt(fin, 1) << "\" - " << findLineInTxt(fin, 2) << "kr." << endl;
     cout << "m: " << findLineInTxt(fin, 3) << "\" - " << findLineInTxt(fin, 4) << "kr." << endl;
     cout << "l: " << findLineInTxt(fin, 5) << "\" - " << findLineInTxt(fin, 6) << "kr." << endl;
-    cout << "s: " << findLineInTxt(fin, 7) << "\" - " << findLineInTxt(fin, 8) << "kr." << endl;
-    cin >> S;
-    pizza.makePizza(S);
+    cout << "p: " << findLineInTxt(fin, 7) << "\" (PAN) - " << findLineInTxt(fin, 8) << "kr." << endl;
+    cin >> pizzaSize;
+
+    cout << "How many toppings do you want?: ";
+    cin >> numberOfToppings;
+
+    pizza.makePizza(pizzaSize, numberOfToppings);
+
     fin.close();
 }
 

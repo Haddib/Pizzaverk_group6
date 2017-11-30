@@ -6,3 +6,15 @@
 1590
 10
 1390
+
+Lína 1 er stærð á lítilli pítsu.
+Lína 2 er verð á lítilli pítsu í krónum.
+
+Lína 3 er stærð á miðlungs pítsu.
+Lína 4 er verð á miðlungs pítsu í krónum.
+
+Lína 5 er stærð á stórri pítsu.
+Lína 6 er verð á stórri pítsu í krónum.
+
+Lína 7 er stærð á pönnupítsu.
+Lína 8 er verð á pönnupítsu í krónum

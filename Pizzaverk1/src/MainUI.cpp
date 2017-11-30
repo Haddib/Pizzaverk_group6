@@ -21,9 +21,9 @@ void MainUI::startMainUI(){
     while(input != 'q'){
         cout << "Who are you?" << endl;
         cout << "a: Administrator" << endl;
-        cout << "s: salesperson" << endl;
-        cout << "b: baker" << endl;
-        cout << "q: quit" << endl;
+        cout << "s: Salesperson" << endl;
+        cout << "b: Baker" << endl;
+        cout << "q: Quit" << endl;
 
         cin >> input;
 
