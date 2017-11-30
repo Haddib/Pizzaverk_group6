@@ -39,8 +39,5 @@ void MainUI::startMainUI(){
         if (input == 'b'){
 
         }
-        if (input == 'q'){
-
-        }
     }
 }

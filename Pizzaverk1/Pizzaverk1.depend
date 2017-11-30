@@ -11,7 +11,7 @@
 
 1512044703 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\adminui.h
 
-1512045268 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\mainui.cpp
+1512050089 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\mainui.cpp
 	"MainUI.h"
 	"AdminUI.h"
 	"SalespersonUI.h"
@@ -19,7 +19,42 @@
 
 1512045268 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\salespersonui.h
 
-1512045268 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\salespersonui.cpp
+1512050089 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\salespersonui.cpp
 	"SalespersonUI.h"
+	"Pizza.h"
+	"Order.h"
 	<iostream>
+
+1512052440 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\order.cpp
+	"Order.h"
+	<iostream>
+
+1512054073 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\order.h
+	"Pizza.h"
+
+1512050836 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\pizza.h
+	"PizzaType.h"
+
+1512054073 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\pizzatype.h
+	<fstream>
+
+1512050872 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\pizza.cpp
+	"Pizza.h"
+	<iostream>
+
+1512054073 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\pizzatype.cpp
+	"PizzaType.h"
+	<iostream>
+	<fstream>
+	<limits>
+
+1512047732 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\topping.cpp
+	"Topping.h"
+
+1512047732 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\topping.h
+
+1512051706 source:c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\src\linefinder.cpp
+	"LineFinder.h"
+
+1512051706 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\linefinder.h
 

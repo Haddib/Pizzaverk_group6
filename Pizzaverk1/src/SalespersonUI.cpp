@@ -1,4 +1,6 @@
 #include "SalespersonUI.h"
+#include "Pizza.h"
+#include "Order.h"
 #include <iostream>
 
 using namespace std;
@@ -19,7 +21,7 @@ void SalespersonUI::startSalespersonUI(){
 
     cout << "Logged in as: Salesperson" << endl;
     cout << "What do you want to do?: " << endl;
-    cout << "1: option 1" << endl;
+    cout << "1: make a new order" << endl;
     cout << "2: option 2" << endl;
     cout << "3: option 3" << endl;
     cout << "q: change user" << endl;
@@ -27,6 +29,7 @@ void SalespersonUI::startSalespersonUI(){
     cin >> salespersonInput;
 
     if (salespersonInput == '1'){
+        Order order;
 
     }
     if (salespersonInput == '2'){
