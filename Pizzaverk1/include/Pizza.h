@@ -11,7 +11,7 @@ class Pizza
         virtual ~Pizza();
 
         void makePizza(char, int);
-        void addTopping(Topping, int);
+        void addTopping(Topping);
 
     protected:
 

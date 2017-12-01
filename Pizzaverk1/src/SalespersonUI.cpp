@@ -19,9 +19,9 @@ void SalespersonUI::startSalespersonUI(){
 
     char salespersonInput;
 
-    cout << "Logged in as: Salesperson" << endl;
+    cout << endl << "Logged in as: Salesperson" << endl;
     cout << "What do you want to do?: " << endl;
-    cout << "1: make a new order" << endl;
+    cout << endl << "1: make a new order" << endl;
     cout << "2: option 2" << endl;
     cout << "3: option 3" << endl;
     cout << "q: change user" << endl;

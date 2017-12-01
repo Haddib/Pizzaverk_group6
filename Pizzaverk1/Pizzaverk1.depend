@@ -62,3 +62,67 @@
 
 1512051706 c:\users\haraldur\desktop\pizza\pizzaverk_group6\pizzaverk1\include\linefinder.h
 
+1512028896 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\main.cpp
+	<iostream>
+	"MainUI.h"
+
+1512028896 c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\include\mainui.h
+
+1512028896 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\src\adminui.cpp
+	"AdminUI.h"
+	<iostream>
+
+1512028896 c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\include\adminui.h
+
+1512028896 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\src\linefinder.cpp
+	"LineFinder.h"
+
+1512028896 c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\include\linefinder.h
+
+1512028896 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\src\mainui.cpp
+	"MainUI.h"
+	"AdminUI.h"
+	"SalespersonUI.h"
+	<iostream>
+
+1512028896 c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\include\salespersonui.h
+
+1512065838 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\src\pizza.cpp
+	"Pizza.h"
+	<iostream>
+	"Topping.h"
+
+1512065838 c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\include\pizza.h
+	"PizzaType.h"
+	"Topping.h"
+
+1512028896 c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\include\pizzatype.h
+	<fstream>
+
+1512065893 c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\include\topping.h
+	<iostream>
+
+1512028896 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\src\pizzatype.cpp
+	"PizzaType.h"
+	<iostream>
+	<fstream>
+	<limits>
+
+1512063571 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\src\salespersonui.cpp
+	"SalespersonUI.h"
+	"Pizza.h"
+	"Order.h"
+	<iostream>
+
+1512063468 c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\include\order.h
+	"Pizza.h"
+
+1512065802 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\src\topping.cpp
+	"Topping.h"
+
+1512065852 source:c:\users\haraldurbjörn\desktop\pizzaverk_group6\pizzaverk1\src\order.cpp
+	"Order.h"
+	<iostream>
+	<fstream>
+	<limits>
+

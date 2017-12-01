@@ -10,7 +10,7 @@ class Order
         Order();
         virtual ~Order();
 
-        void print();
+        void addPizza();
         int findLineInTxt(ifstream& file, int line);
 
 
@@ -20,6 +20,7 @@ class Order
         char pizzaSize;
         int numberOfToppings;
         Pizza pizza;
+        int numberOfItems;
 };
 
 #endif // ORDER_H

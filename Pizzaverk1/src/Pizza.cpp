@@ -24,16 +24,15 @@ Pizza::~Pizza()
 }
 
 void Pizza::makePizza(char pizzaSize, int numberOfToppings){
-    pizzatype.setPizzaType(pizzaSize);
-    toppingCount = numberOfToppings;
-    toppings = new Topping[toppingCount];
-    currentToppingNum = 0;
+    pizzatype.setPizzaType(pizzaSize);              ///setur stærð og verð á grunnpítsunni
+    toppingCount = numberOfToppings;                ///hversu margar áleggstegundir
+    toppings = new Topping[toppingCount];           /// array sem verður skráð í áleggstegundir
+    currentToppingNum = 0;                          ///counter fyrir for lúppu
 }
-void Pizza::addTopping(Topping topping, int numberOfToppings){
-    for (int i = 0 ; i < numberOfToppings ; i++){
-        if(currentToppingNum < toppingCount){
-            toppings[currentToppingNum] = topping;
-            currentToppingNum++;
-        }
+void Pizza::addTopping(Topping topping){
+    if(currentToppingNum < toppingCount){
+        toppings[currentToppingNum] = topping;
+        currentToppingNum++;
     }
 }
+
